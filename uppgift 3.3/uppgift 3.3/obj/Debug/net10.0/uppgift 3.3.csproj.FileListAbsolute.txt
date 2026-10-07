@@ -1,0 +1,14 @@
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.exe
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.deps.json
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.runtimeconfig.json
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.dll
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\bin\Debug\net10.0\uppgift 3.3.pdb
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.AssemblyInfoInputs.cache
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.AssemblyInfo.cs
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.csproj.CoreCompileInputs.cache
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.dll
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\refint\uppgift 3.3.dll
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.pdb
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\uppgift 3.3.genruntimeconfig.cache
+C:\Users\moal09001\Documents\GitHub\inlämningsuppgifter if och switch\uppgift 3.3\uppgift 3.3\obj\Debug\net10.0\ref\uppgift 3.3.dll

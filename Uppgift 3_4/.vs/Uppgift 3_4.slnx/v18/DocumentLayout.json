@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moal09001\\Documents\\GitHub\\inl\u00E4mningsuppgifter if och switch\\Uppgift 3_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C223D0E8-D251-5070-2B8E-FFFF900A254B}|Uppgift 3_4\\Uppgift 3_4.csproj|c:\\users\\moal09001\\documents\\github\\inl\u00E4mningsuppgifter if och switch\\uppgift 3_4\\uppgift 3_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C223D0E8-D251-5070-2B8E-FFFF900A254B}|Uppgift 3_4\\Uppgift 3_4.csproj|solutionrelative:uppgift 3_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moal09001\\Documents\\GitHub\\inl\u00E4mningsuppgifter if och switch\\Uppgift 3_4\\Uppgift 3_4\\Program.cs",
+              "RelativeDocumentMoniker": "Uppgift 3_4\\Program.cs",
+              "ToolTip": "C:\\Users\\moal09001\\Documents\\GitHub\\inl\u00E4mningsuppgifter if och switch\\Uppgift 3_4\\Uppgift 3_4\\Program.cs",
+              "RelativeToolTip": "Uppgift 3_4\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA4wBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T08:20:02.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
